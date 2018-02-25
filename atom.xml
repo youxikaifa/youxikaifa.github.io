@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>雪小颜的博客</title>
+  
+  <subtitle>小小小仙女</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2018-02-25T03:48:17.101Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>雪小颜</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>MarkDown使用规范</title>
+    <link href="http://yoursite.com/2018/02/24/markdown%E4%BD%BF%E7%94%A8%E8%A7%84%E8%8C%83/"/>
+    <id>http://yoursite.com/2018/02/24/markdown使用规范/</id>
+    <published>2018-02-24T08:46:26.000Z</published>
+    <updated>2018-02-25T03:48:17.101Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="一级标题"><a href="#一级标题" class="headerlink" title="一级标题"></a>一级标题</h1><h2 id="二级标题"><a href="#二级标题" class="headerlink" title="二级标题"></a>二级标题</h2><h3 id="三级标题"><a href="#三级标题" class="headerlink" title="三级标题"></a>三级标题</h3><h4 id="四级标题"><a href="#四级标题" class="headerlink" title="四级标题"></a>四级标题</h4><h5 id="五级标题"><a href="#五级标题" class="headerlink" title="五级标题"></a>五级标题</h5><h6 id="六级标题"><a href="#六级标题" class="headerlink" title="六级标题"></a>六级标题</h6><h6 id="有序列表"><a href="#有序列表" class="headerlink" title="有序列表"></a>有序列表</h6><ul><li>列表1</li><li>列表2</li><li>列表3</li></ul><h6 id="无序列表"><a href="#无序列表" class="headerlink" title="无序列表"></a>无序列表</h6><ol><li>列表1</li><li>列表2</li><li>列表3</li></ol><h6 id="插入链接"><a href="#插入链接" class="headerlink" title="插入链接"></a>插入链接</h6><p><a href="https://www.baidu.com" target="_blank" rel="noopener">百度</a></p><h6 id="插入图片"><a href="#插入图片" class="headerlink" title="插入图片"></a>插入图片</h6><p><img src="http://upload-images.jianshu.io/upload_images/259-0ad0d0bfc1c608b6.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="image-w100"></p><h6 id="引用"><a href="#引用" class="headerlink" title="引用"></a>引用</h6><blockquote><p>一个人，一棵树，一壶酒</p></blockquote><h6 id="粗体和斜体"><a href="#粗体和斜体" class="headerlink" title="粗体和斜体"></a>粗体和斜体</h6><p><em>斜体</em><br><strong>粗体</strong></p><h6 id="代码引用"><a href="#代码引用" class="headerlink" title="代码引用"></a>代码引用</h6><p><code>单行引用</code><br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">多行引用</span><br><span class="line">多行引用</span><br><span class="line">多行引用</span><br></pre></td></tr></table></figure></p><h6 id="表格-第二行为关键代码"><a href="#表格-第二行为关键代码" class="headerlink" title="表格(第二行为关键代码)"></a>表格(第二行为关键代码)</h6><table><thead><tr><th style="text-align:center">Table</th><th style="text-align:center">Are</th><th style="text-align:center">Cool</th></tr></thead><tbody><tr><td style="text-align:center">col 3 is</td><td style="text-align:center">right-aligned</td><td style="text-align:center">$1600</td></tr><tr><td style="text-align:center">col 2 is</td><td style="text-align:center">centered</td><td style="text-align:center">$12</td></tr><tr><td style="text-align:center">zebra stripes</td><td style="text-align:center">are neat</td><td style="text-align:center">$1</td></tr></tbody></table><table><thead><tr><th style="text-align:center">dog</th><th>bird</th><th>cat</th></tr></thead><tbody><tr><td style="text-align:center">foo</td><td>foo</td><td>foo</td></tr><tr><td style="text-align:center">bar</td><td>bar</td><td>bar</td></tr><tr><td style="text-align:center">baz</td><td>baz</td><td>baz</td></tr></tbody></table><h6 id="显示链接中带括号的图片-中间要空一行"><a href="#显示链接中带括号的图片-中间要空一行" class="headerlink" title="显示链接中带括号的图片(中间要空一行)"></a>显示链接中带括号的图片(中间要空一行)</h6><p><img src="http://latex.codecogs.com/gif.latex?\prod%20\(n_{i}\)+1" alt="第一张图片"></p><p>+++　朱丽叶与罗密欧</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;一级标题&quot;&gt;&lt;a href=&quot;#一级标题&quot; class=&quot;headerlink&quot; title=&quot;一级标题&quot;&gt;&lt;/a&gt;一级标题&lt;/h1&gt;&lt;h2 id=&quot;二级标题&quot;&gt;&lt;a href=&quot;#二级标题&quot; class=&quot;headerlink&quot; title=&quot;二级标题&quot;&gt;&lt;/a
+      
+    
+    </summary>
+    
+    
+      <category term="markdownmarkdown" scheme="http://yoursite.com/tags/markdownmarkdown/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hexo 使用命令</title>
+    <link href="http://yoursite.com/2018/01/24/hello-world/"/>
+    <id>http://yoursite.com/2018/01/24/hello-world/</id>
+    <published>2018-01-24T08:46:26.000Z</published>
+    <updated>2018-02-25T03:48:36.083Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+      
+    
+    </summary>
+    
+    
+      <category term="hexo" scheme="http://yoursite.com/tags/hexo/"/>
+    
+  </entry>
+  
+</feed>

@@ -62,6 +62,12 @@
   
     
     <entry>
+      <title>tags</title>
+      <link href="/tags/index.html"/>
+      <content type="html"><![CDATA[]]></content>
+    </entry>
+    
+    <entry>
       <title>about</title>
       <link href="/about/index.html"/>
       <content type="html"><![CDATA[<h1 id="你是猪"><a href="#你是猪" class="headerlink" title="你是猪"></a>你是猪</h1>]]></content>
@@ -70,12 +76,6 @@
     <entry>
       <title>categories</title>
       <link href="/categories/index.html"/>
-      <content type="html"><![CDATA[]]></content>
-    </entry>
-    
-    <entry>
-      <title>tags</title>
-      <link href="/tags/index.html"/>
       <content type="html"><![CDATA[]]></content>
     </entry>
     

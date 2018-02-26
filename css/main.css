@@ -1823,7 +1823,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #6f4509;
+  background: #ffffbd;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2214,7 +2214,7 @@ pre .javascript .function {
   padding: 0 15px;
   color: #0a9caf;
   cursor: pointer;
-  font-size: 14px;
+  font-size: 10px;
   border: 1px solid #0a9caf;
   border-radius: 4px;
 }
@@ -2260,6 +2260,7 @@ pre .javascript .function {
   border-top-right-radius: 4px;
   border-bottom-right-radius: 4px;
   border-bottom-left-radius: 4px;
+  font-size: 18px;
 }
 .gitment_title {
   display: inline-block;
@@ -2270,7 +2271,7 @@ pre .javascript .function {
   padding-left: 15px;
   color: #0a9caf;
   cursor: pointer;
-  font-size: 14px;
+  font-size: 18px;
 }
 .post-spread {
   margin-top: 20px;

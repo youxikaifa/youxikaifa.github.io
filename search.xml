@@ -62,21 +62,21 @@
   
     
     <entry>
-      <title>about</title>
-      <link href="/about/index.html"/>
-      <content type="html"><![CDATA[<h1 id="你是猪"><a href="#你是猪" class="headerlink" title="你是猪"></a>你是猪</h1>]]></content>
-    </entry>
-    
-    <entry>
       <title>categories</title>
       <link href="/categories/index.html"/>
       <content type="html"><![CDATA[]]></content>
     </entry>
     
     <entry>
-      <title>tags</title>
+      <title>使用过的标签</title>
       <link href="/tags/index.html"/>
       <content type="html"><![CDATA[]]></content>
+    </entry>
+    
+    <entry>
+      <title>About me</title>
+      <link href="/about/index.html"/>
+      <content type="html"><![CDATA[<h1 id="一根香烟"><a href="#一根香烟" class="headerlink" title="一根香烟"></a>一根香烟</h1><h1 id="两台电脑"><a href="#两台电脑" class="headerlink" title="两台电脑"></a>两台电脑</h1><h1 id="3顿餐饭"><a href="#3顿餐饭" class="headerlink" title="3顿餐饭"></a>3顿餐饭</h1><h1 id="4房无厅"><a href="#4房无厅" class="headerlink" title="4房无厅"></a>4房无厅</h1><h1 id="5光是色"><a href="#5光是色" class="headerlink" title="5光是色"></a>5光是色</h1><h1 id="六主无神"><a href="#六主无神" class="headerlink" title="六主无神"></a>六主无神</h1><h1 id="7点醒来"><a href="#7点醒来" class="headerlink" title="7点醒来"></a>7点醒来</h1><h1 id="8点洗漱"><a href="#8点洗漱" class="headerlink" title="8点洗漱"></a>8点洗漱</h1><h1 id="9点上班"><a href="#9点上班" class="headerlink" title="9点上班"></a>9点上班</h1><h1 id="十分欢快"><a href="#十分欢快" class="headerlink" title="十分欢快"></a>十分欢快</h1>]]></content>
     </entry>
     
   

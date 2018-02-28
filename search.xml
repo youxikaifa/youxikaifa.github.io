@@ -62,6 +62,12 @@
   
     
     <entry>
+      <title>About me</title>
+      <link href="/about/index.html"/>
+      <content type="html"><![CDATA[<h1 id="1根香烟"><a href="#1根香烟" class="headerlink" title="1根香烟"></a>1根香烟</h1><h1 id="2台电脑"><a href="#2台电脑" class="headerlink" title="2台电脑"></a>2台电脑</h1><h1 id="3顿餐饭"><a href="#3顿餐饭" class="headerlink" title="3顿餐饭"></a>3顿餐饭</h1><h1 id="4面墙壁"><a href="#4面墙壁" class="headerlink" title="4面墙壁"></a>4面墙壁</h1><h1 id="5雷压顶"><a href="#5雷压顶" class="headerlink" title="5雷压顶"></a>5雷压顶</h1><h1 id="6主无神"><a href="#6主无神" class="headerlink" title="6主无神"></a>6主无神</h1><h1 id="7点醒来"><a href="#7点醒来" class="headerlink" title="7点醒来"></a>7点醒来</h1><h1 id="8点洗漱"><a href="#8点洗漱" class="headerlink" title="8点洗漱"></a>8点洗漱</h1><h1 id="9点上班"><a href="#9点上班" class="headerlink" title="9点上班"></a>9点上班</h1><h1 id="10分不爽"><a href="#10分不爽" class="headerlink" title="10分不爽"></a>10分不爽</h1>]]></content>
+    </entry>
+    
+    <entry>
       <title>categories</title>
       <link href="/categories/index.html"/>
       <content type="html"><![CDATA[]]></content>
@@ -71,12 +77,6 @@
       <title>使用过的标签</title>
       <link href="/tags/index.html"/>
       <content type="html"><![CDATA[]]></content>
-    </entry>
-    
-    <entry>
-      <title>About me</title>
-      <link href="/about/index.html"/>
-      <content type="html"><![CDATA[<h1 id="1根香烟"><a href="#1根香烟" class="headerlink" title="1根香烟"></a>1根香烟</h1><h1 id="2台电脑"><a href="#2台电脑" class="headerlink" title="2台电脑"></a>2台电脑</h1><h1 id="3顿餐饭"><a href="#3顿餐饭" class="headerlink" title="3顿餐饭"></a>3顿餐饭</h1><h1 id="4面墙壁"><a href="#4面墙壁" class="headerlink" title="4面墙壁"></a>4面墙壁</h1><h1 id="5雷压顶"><a href="#5雷压顶" class="headerlink" title="5雷压顶"></a>5雷压顶</h1><h1 id="6主无神"><a href="#6主无神" class="headerlink" title="6主无神"></a>6主无神</h1><h1 id="7点醒来"><a href="#7点醒来" class="headerlink" title="7点醒来"></a>7点醒来</h1><h1 id="8点洗漱"><a href="#8点洗漱" class="headerlink" title="8点洗漱"></a>8点洗漱</h1><h1 id="9点上班"><a href="#9点上班" class="headerlink" title="9点上班"></a>9点上班</h1><h1 id="10分不爽"><a href="#10分不爽" class="headerlink" title="10分不爽"></a>10分不爽</h1>]]></content>
     </entry>
     
   

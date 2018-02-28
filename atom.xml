@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>雪小颜的博客</title>
+  <title>咖啡与烟的博客</title>
   
-  <subtitle>Please call me snow.</subtitle>
+  <subtitle>法力无边.</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
@@ -10,7 +10,7 @@
   <id>http://yoursite.com/</id>
   
   <author>
-    <name>雪小颜</name>
+    <name>咖啡与烟</name>
     
   </author>
   
